@@ -1,8 +1,8 @@
 {
-  "name": "simplefolio",
+  "name": "personal-website",
   "version": "1.0.1",
   "private": "true",
-  "description": "A clean, beautiful and responsive portfolio template for Developers!",
+  "description": "A clean, beautiful and responsive personal website to show my projects.",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
@@ -13,7 +13,7 @@
     "url": "git+https://github.com/cobidev/simplefolio"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "Adam Peterson",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cobidev/simplefolio/issues"
