@@ -1,9 +1,9 @@
 URL:
 
 ## Page Summary
-I built a personal website to grow as a developer.
-It shows some little projects and I plan use to grow and learn more. 
 
+I built a personal website to grow as a developer.
+It shows some little projects and I plan use to grow.
 
 ## Features
 
@@ -13,7 +13,3 @@ It shows some little projects and I plan use to grow and learn more.
 ⚡️ Fully Responsive\
 ⚡️ Valid HTML5 & CSS3\
 ⚡️ Optimized with Parcel\
-
-
-
-
